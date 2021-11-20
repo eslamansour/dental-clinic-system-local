@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/elnanrdl/sites/clinic-front
+    - /bin/cp * $DEPLOYPATH
