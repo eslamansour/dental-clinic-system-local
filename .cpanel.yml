@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/localhost/dental-clinic-local/dist/
+    - export DEPLOYPATH=/localhost/dentist-front/dist/
     - /bin/cp * $DEPLOYPATH
